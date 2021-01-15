@@ -1,6 +1,6 @@
 # Sea-Surface-Temperature-Prediction-with-Memory-Graph-Convolutional-Networks
 ## Introduction 
-We propose a MGCN network for SST prediction prediction. The method is a spatiotemporal prediction method for SST sequence.
+We propose a memory graph convolutional network for SST prediction prediction. The method is a spatiotemporal prediction method for SST sequence.
 ## Prerequisites
 Our code is based on Python3 (>= 3.6). The major libraries are listed as follows:
 * TensorFlow (>= 1.9.0)
